@@ -62,19 +62,19 @@
 
 						
 						<li class="playlistitem">
-							<a href="music.php?playlist=190M Mix.txt">
+							<a href="music_ex4.php?playlist=190M Mix.txt">
 								190M Mix.txt							</a>
 						</li>
 
 						
 						<li class="playlistitem">
-							<a href="music.php?playlist=mypicks.txt">
+							<a href="music_ex4.php?playlist=mypicks.txt">
 								mypicks.txt							</a>
 						</li>
 
 						
 						<li class="playlistitem">
-							<a href="music.php?playlist=playlist.txt">
+							<a href="music_ex4.php?playlist=playlist.txt">
 								playlist.txt							</a>
 						</li>
 
